@@ -1,0 +1,117 @@
+.Privacy-Detail-mobile{
+    background-color: #1c2a39;
+    display: flex;
+    overflow: hidden !important;
+    height: 100%;
+}
+.privacy-title-mobile{
+    font-size: 26px !important;
+    line-height: 38px !important;
+    color: white !important;
+    font-family: "CeraGR-Bold" !important;
+    padding-top: 137px;
+}
+.box-privacy-size{
+    margin: 0 auto !important;
+}
+.container-styling-lptp{
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    margin-top: 10% !important;
+}
+.privacy-month-mobile{
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: white !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold !important;
+}
+.privacy-detail-mobile{
+    font-size: 13px !important;
+    line-height: 18px !important;
+    color: #acbac9 !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.privacy-detail-mobile-title{
+    font-size: 14px !important;
+    line-height: 20px !important;
+    color: #ffffff !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-weight: bold !important;
+}
+
+.footer-mobile-link-lptp{
+    font-size: 26px !important;
+    line-height: 36px !important;
+    color: white !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none !important;
+}
+
+.footer-mobile-address-lptp{
+    font-size: 21px !important;
+    line-height: 28px !important;
+    color: #ffffff !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 40px;
+}
+.footer-mobile-country-lptp{
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: white !important;
+    font-family: "OpenSans-Bold" !important;
+
+    font-weight: bold !important;
+}
+.footer-mobile-number-lptp{
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: white !important;
+    font-family: 'Open Sans', sans-serif !important;
+
+}
+
+.footer-mobile-rights-lptp{
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: white !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.footer-mobile-privacy-lptp{
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: white !important;
+    font-family: "OpenSans-Bold" !important;
+    padding-top: 35px;
+    padding-bottom: 30px;
+    text-align: end;
+    text-decoration: underline;
+    font-weight: bold !important;
+}
+
+.comp{
+    font-family: "CeraGR-Bold" !important;
+}
+
+.footer-image-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-image{
+    text-align: center;
+    width: 208px;
+    height: 208px;
+}

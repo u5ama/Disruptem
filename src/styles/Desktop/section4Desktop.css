@@ -1,0 +1,43 @@
+
+.home-four-space-desktop{
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 100px;
+    position: absolute !important;
+    bottom: 80px;
+}
+
+.home-four-title-desktop{
+    color: white;
+    font-size: 36px !important;
+    line-height: 49px !important;
+    font-weight: bold !important;
+    font-family: "OpenSans-Bold" !important;
+}
+
+.home-four-description-desktop{
+    color: white;
+    font-size: 21px !important;
+    line-height: 28px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    position: relative !important;
+    margin-top: 30px !important;
+}
+.home-four-description-detail-mobile-desktop{
+    color: #acbac9;
+    font-size: 16px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    line-height: 22px !important;
+}
+.home-four-button-desktop{
+    margin-top: 30px !important;
+}
+.button-four-text-style-desktop{
+    font-size: 21px !important;
+    font-family: "OpenSans-Bold" !important;
+    line-height: 28px !important;
+    font-weight: bold !important;
+    padding: 5px;
+    text-transform: none;
+    color: white !important;
+}

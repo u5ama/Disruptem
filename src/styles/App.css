@@ -1,0 +1,160 @@
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+body{
+  overflow: hidden !important;
+}
+::-webkit-scrollbar {
+  width: 0px;
+}
+/* remove scrollbar space /
+background: transparent; / optional: just make scrollbar invisible /
+}
+/ optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+  /*background: #FF0000;*/
+}
+.App-header {
+  display: flex;
+  overflow: hidden !important;
+  height: 100% !important;
+}
+.App{
+  overflow: hidden !important;
+  width: 100%;
+}
+.section{
+    overflow: hidden !important;
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.section-one-mob{
+  overflow: hidden !important;
+  height: 100vh !important;
+  width: 100% !important;
+  background-color: #121323 !important;
+}
+.section-two-mob{
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  background-color: #ffffff !important;
+  position: static !important;
+}
+.section-three-mob{
+  overflow: hidden !important;
+  height: 100vh !important;
+  width: 100% !important;
+  background-color: #121323 !important;
+  position: static !important;
+}
+.section-four-mob{
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  /*margin-top: 5%;*/
+  background-color: #121323 !important;
+  /*position: relative !important;*/
+}
+.section-five-mob{
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  /*margin-top: 5%;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff !important;
+}
+
+.section-seven-mob{
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  /*margin-top: 5%;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #c41446 !important;
+}
+
+.section-six-mob{
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  background-color: #121323 !important;
+  /*position: relative !important;*/
+}
+.section-eight-mob{
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  /*margin-top: 5%;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff !important;
+}
+.section-eight-desktop{
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  /*margin-top: 5%;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fafafa !important;
+}
+.section-nine-mob{
+  background-color: #121323 !important;
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  /*margin-top: 5%;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-ten-mob{
+  background-color: #c41446 !important;
+  overflow: hidden !important;
+  height: calc(var(--vh, 1vh) * 100);
+  width: 100% !important;
+  /*margin-top: 5%;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@font-face {
+  font-family: "CeraGR-Bold";
+  src: url('../assets/cera-gr-bold.otf');
+}
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: url('../assets/OpenSans-Bold.ttf');
+}
+
+.get-in-touch{
+  color: white;
+  font-size: 21px !important;
+  line-height: 28px !important;
+  font-weight: bold !important;
+  font-family: "OpenSans-Bold" !important;
+}
+.line-style{
+  border-right: 2px solid white;
+  padding-top: 20px !important;
+  padding-right: 18px;
+  position: relative;
+  top: 18px;
+}
+.line-style-desktop{
+  border-right: 2px solid white;
+  padding-top: 30px !important;
+  padding-right: 30px;
+  position: relative;
+  top: 18px;
+}

@@ -1,0 +1,41 @@
+.home-three-space{
+    padding: 30px 30px 0px !important;
+}
+.home-three-title{
+    color: #ffffff;
+    font-size: 26px !important;
+    line-height: 36px !important;
+    font-family: "OpenSans-Bold" !important;
+    /*bottom: 240px;*/
+    /*position: absolute !important;*/
+    font-weight: bold !important;
+}
+.home-three-description{
+    color: #ffffff;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 15px !important;
+}
+.home-three-button{
+    margin-top: 20px !important;
+}
+.image-box{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.home-three-image{
+    width: 60%;
+    display: block;
+    margin-top: 30%;
+}
+.button-three-text-style{
+    color: #ffffff;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    font-family: "OpenSans-Bold" !important;
+    text-transform: none;
+    font-weight: bold;
+    padding: 5px;
+}

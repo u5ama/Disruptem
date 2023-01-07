@@ -1,0 +1,132 @@
+@font-face {
+    font-family: "OpenSans-Bold";
+    src: url('../../assets/OpenSans-Bold.ttf');
+}
+.have-project-mvp-mob{
+    font-size: 26px !important;
+    color: #c40046 !important;
+    line-height: 38px !important;
+    font-family: "CeraGR-Bold" !important;
+}
+.mvp-talk-mob{
+    font-size: 55px !important;
+    color: #c41446 !important;
+    line-height: 75px !important;
+    font-family: "OpenSans-Bold" !important;
+}
+.mvp-email-mob{
+    font-size: 21px !important;
+    color: #ffffff !important;
+    line-height: 28px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 15px;
+}
+.home8-space{
+    margin-left: 20px;
+}
+.fontStyleTalkPage{
+    font-family: "CeraGR-Bold" !important;
+    font-size: 42px !important;
+    color: white !important;
+}
+.fontStylePage{
+    font-family: 'Open Sans', sans-serif !important;
+    color: white !important;
+}
+
+.styleCookies{
+    font-family: 'Open Sans', sans-serif !important;
+    color: white !important;
+    font-size: 11px !important;
+    padding-top: 70px !important;
+    line-height: 15px !important;
+    text-decoration: underline !important;
+}
+
+.styleRights{
+    font-family: 'Open Sans', sans-serif !important;
+    color: white !important;
+    font-size: 11px !important;
+    padding-top: 33px;
+    line-height: 15px !important;
+}
+
+.Pager-space-link{
+    margin-top: 20px !important;
+}
+
+.LinkStylePage{
+    color: white !important;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 18px !important;
+}
+.StyleAddress{
+    font-family: 'Open Sans', sans-serif !important;
+    color: white !important;
+    font-size: 16px !important;
+    padding-top: 89px !important;
+}
+.StyleNumber{
+    font-family: 'Open Sans', sans-serif !important;
+    color: white !important;
+    font-size: 16px !important;
+}
+.addressSpacing{
+    margin-left: 20px;
+}
+.styleInstagramOne{
+    padding-top: 20px;
+    font-family: "CeraGR-Bold" !important;
+    font-size: 21px !important;
+    color: #c40046 !important;
+}
+
+.styleTwitterTwo{
+    padding-top: 20px;
+    font-family: "CeraGR-Bold" !important;
+    font-size: 21px !important;
+    color: #c40046 !important;
+}
+.centerFooter{
+    margin-top: 10% !important;
+}
+
+
+.MuiInput-underline:before {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: "\00a0";
+    position: absolute;
+    transition: border-bottom-color 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-bottom: 1px solid #6c7a89 !important;
+    pointer-events: none;
+}
+.MuiInputBase-root {
+    color: #6c7a89 !important;
+}
+.MuiFormLabel-root {
+    color: #6c7a89 !important;
+}
+fieldset.PrivateNotchedOutline-root-25.MuiOutlinedInput-notchedOutline{
+    border-color: #6c7a89;
+}
+.MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+    border-color: #6c7a89 !important;
+}
+.callMeBackButton{
+    background-color: #3c4a59;
+    font-size: 14px !important;
+    color: #ffffff !important;
+    line-height: 19px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    letter-spacing: 2.8px !important;
+    width: 100%;
+    margin-left: 0px !important;
+    border-radius: 0px !important;
+    height: 40px;
+    justify-content: left !important;
+    margin-top: 5% !important;
+    font-weight: bold !important;
+}

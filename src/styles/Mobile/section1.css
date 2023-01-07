@@ -1,0 +1,48 @@
+
+.home-space{
+    padding-left: 30px;
+    padding-right: 30px;
+    position: fixed;
+    bottom: 50px;
+}
+.home-space2{
+    height: 50vh;
+}
+.home-title{
+    font-family: "CeraGR-Bold" !important;
+}
+.bold-size{
+    font-family: "OpenSans-Bold" !important;
+}
+.home-description{
+    color: white;
+    font-size: 21px !important;
+    line-height: 30px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    position: relative !important;
+}
+.home-description-detail-mobile{
+    color: #acbac9;
+    font-size: 16px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    line-height: 22px !important;
+}
+.home-button{
+    margin-top: 30px !important;
+}
+.button-text-style{
+    font-size: 16px !important;
+    font-family: "OpenSans-Bold" !important;
+    line-height: 22px !important;
+    font-weight: bold !important;
+    padding: 5px;
+    text-transform: none;
+    color: white !important;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}

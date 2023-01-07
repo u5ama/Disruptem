@@ -1,0 +1,335 @@
+.AppBar{
+    color: #fff;
+    background-color: #121323;
+    border: none;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.App-logo-ipad {
+    height: 41px;
+    margin-top: 50px;
+    pointer-events: none;
+    margin-left: 50px;
+}
+
+.App-logo-drawer-mob{
+    height: 51px;
+    margin-top: 15px;
+    pointer-events: none;
+    /*margin-left: 50px;*/
+    color: white;
+}
+
+.Menu-logo{
+    height: 35px;
+}
+.msgIcon{
+    margin-top: 30px;
+    height: 35px;
+}
+.Menu-logo-drawer-mob {
+    height: 32px;
+    margin-top: 15px;
+    /*animation: cssAnimation 0s 3s forwards;*/
+    /*visibility: hidden;*/
+}
+/*@keyframes cssAnimation {*/
+/*    to   { visibility: visible; }*/
+/*}*/
+.MuiDrawer-root.MuiDrawer-modal {
+    z-index: 12345 !important;
+}
+.Drawer-Title{
+    font-size: 30px !important;
+    margin-top: 31px;
+    font-family: "CeraGR-Bold" !important;
+    font-weight: 700;
+}
+.Drawer-space{
+    margin-top: 10% !important;
+}
+
+.Drawer-space-address{
+    margin-top: 80px !important;
+}
+.LinkStyle{
+    color: white !important;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 21px !important;
+}
+.fontStyle{
+    font-family: 'Open Sans', sans-serif !important;
+}
+.fontStyleTalk{
+    font-family: "CeraGR-Bold" !important;
+    font-size: 42px !important;
+}
+.box-space{
+    margin: 80px 0px 0px 35px;
+    z-index: 12345 !important;
+}
+
+
+.hamburger {
+    font-size: 60px;
+
+    display: inline-block;
+
+    width: 1em;
+    height: 1em;
+    padding: 0;
+
+    cursor: pointer;
+    transition: transform .2s ease-in-out;
+    vertical-align: middle;
+
+    border: 0 none;
+    background: transparent;
+}
+
+/**
+ * Button height fix for Firefox
+ */
+.hamburger::-moz-focus-inner {
+    padding: 0;
+    border: 0 none;
+}
+
+/**
+ * Focus fix for Chrome
+ */
+.hamburger:focus {
+    outline: 0;
+}
+
+.hamburger:before,
+.hamburger:after {
+    content: "";
+}
+
+.hamburger:before,
+.hamburger .icon,
+.hamburger:after {
+    display: block;
+
+    width: 100%;
+    height: .2em;
+    margin: 0 0 .2em;
+
+    transition: transform .2s ease-in-out;
+
+    border-radius: .05em;
+    background: #596c7d;
+}
+
+/**
+ * Styles for the active `.hamburger` icon
+ */
+.hamburger.active:before,
+.hamburger.active .icon,
+.hamburger.active:after {
+    background: #2c3e50;
+}
+
+/**
+ * VERTICAL HAMBURGER
+ */
+.hamburger.hamburger-vertical.active {
+    transform: rotate(270deg);
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+@media only screen
+and (min-device-width: 375px)
+and (max-device-width: 667px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+    .siteName{
+        display: none;
+    }
+    .Drawer-space-address{
+        margin-top: 80px !important;
+    }
+}
+
+/* Landscape */
+@media only screen
+and (min-device-width: 375px)
+and (max-device-width: 667px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+    .Drawer-space{
+       margin-top: 1% !important;
+    }
+    .Drawer-space-address {
+        margin-top: 50px !important;
+    }
+    .App-logo-drawer-mob {
+        margin-left: 70px !important;
+    }
+    .Menu-logo-drawer{
+        margin-left: 35px !important;
+    }
+    .siteName{
+        display: none;
+    }
+}
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+/* Portrait */
+@media only screen
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+    .siteName{
+        display: none;
+    }
+    .Drawer-space-address{
+        margin-top: 80px !important;
+    }
+}
+
+/* Landscape */
+@media only screen
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+    .Drawer-space{
+        margin-top: 1% !important;
+    }
+    .Drawer-space-address {
+        margin-top: 50px !important;
+    }
+    .App-logo-drawer-mob {
+        margin-left: 70px !important;
+    }
+    .Menu-logo-drawer{
+        margin-left: 35px !important;
+    }
+    .siteName{
+        display: none;
+    }
+}
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+/* ----------- iPhone X ----------- */
+/* Portrait */
+@media only screen
+and (min-device-width: 375px)
+and (max-device-width: 812px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+    .Drawer-space-address{
+        margin-top: 80px !important;
+    }
+}
+/* Landscape */
+@media only screen
+and (min-device-width: 375px)
+and (max-device-width: 812px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+    /*.home-space{*/
+    /*    padding-top: 15%;*/
+    /*}*/
+    .Drawer-space{
+        margin-top: 1% !important;
+    }
+    .Drawer-space-address {
+        margin-top: 50px !important;
+    }
+    .App-logo-drawer-mob {
+        margin-left: 70px !important;
+    }
+    .Menu-logo-drawer{
+        margin-left: 35px !important;
+    }
+    .siteName{
+        display: none;
+    }
+}
+/* ----------- iPhone X ----------- */
+
+/* ----------- iPhone XS Max ----------- */
+
+@media only screen
+and (device-width : 414px)
+and (device-height : 896px)
+and (-webkit-device-pixel-ratio : 3)
+and (orientation: portrait){
+    /*.home-space{*/
+    /*    padding-top: 95%;*/
+    /*}*/
+    .siteName{
+        display: none;
+    }
+    .Drawer-space-address{
+        margin-top: 80px !important;
+    }
+}
+
+@media only screen
+and (device-width : 896px)
+and (device-height : 414px)
+and (-webkit-device-pixel-ratio : 3)
+and (orientation: landscape){
+    /*.home-space{*/
+    /*    padding-top: 95%;*/
+    /*}*/
+    .Drawer-space{
+        margin-top: 1% !important;
+    }
+    .Drawer-space-address {
+        margin-top: 50px !important;
+    }
+    .App-logo-drawer-mob {
+        margin-left: 70px !important;
+    }
+    .Menu-logo-drawer{
+        margin-left: 35px !important;
+    }
+    .siteName{
+        display: none;
+    }
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+.linkSizing{
+    height: 85px !important;
+    display: inline-block !important;
+    color: transparent !important;
+}
+
+@media  screen and (min-width: 1366px) {
+    .siteName{
+        font-size: 32px !important;
+        font-family: "CeraGR-Bold" !important;
+        margin-top: 25px !important;
+        color: white;
+        padding-left: 60px !important;
+    }
+    .Drawer-space {
+        margin-top: 3% !important;
+    }
+    .drawerIconBox{
+        text-align: center;
+        /* margin-right: -95%; */
+        padding-right: 40px;
+    }
+}
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 640px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+    .Drawer-space-address {
+        margin-top: 30px !important;
+    }
+}

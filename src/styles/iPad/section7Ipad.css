@@ -1,0 +1,46 @@
+.home7-description-ipad{
+    font-size: 21px !important;
+    color: white;
+    line-height: 28px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 20px !important;
+}
+.home7-title-ipad{
+    font-size: 26px !important;
+    line-height: 20px !important;
+    color: #c40046 !important;
+    font-family: "CeraGR-Bold" !important;
+}
+.home7-name-ipad{
+    color: #ffffff !important;
+    font-family: "OpenSans-Bold" !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    line-height: 20px !important;
+    margin-top: 15px !important;
+}
+
+.home7-appName-ipad{
+    font-size: 16px !important;
+    color: white;
+    line-height: 20px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 5px !important;
+}
+
+.home7-space-ipad{
+    margin-top: 50px !important;
+    /*margin-right: 50px !important;*/
+    /*margin-left: 50px !important;*/
+}
+
+.box-reviews-size-ipad{
+    margin: 0 auto !important;
+}
+.dot-ipad{
+    height: 90px;
+    width: 90px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+}

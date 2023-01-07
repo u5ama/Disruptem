@@ -1,0 +1,106 @@
+.Privacy-Detail-mobile{
+    background-color: #1c2a39;
+    display: flex;
+    overflow: hidden !important;
+    height: 100%;
+}
+.privacy-title-mobile{
+    font-size: 26px !important;
+    line-height: 38px !important;
+    color: white !important;
+    font-family: "CeraGR-Bold" !important;
+    padding-top: 137px;
+}
+.box-privacy-size{
+    margin: 0 auto !important;
+}
+.container-styling{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    margin-top: 40% !important;;
+    margin-bottom: 50px !important;
+}
+.privacy-month-mobile{
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: white !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold !important;
+}
+.privacy-detail-mobile{
+    font-size: 13px !important;
+    line-height: 18px !important;
+    color: #acbac9 !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.privacy-detail-mobile-title{
+    font-size: 14px !important;
+    line-height: 20px !important;
+    color: #ffffff !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-weight: bold !important;
+}
+
+.footer-mobile-link{
+    font-size: 26px !important;
+    line-height: 36px !important;
+    color: white !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none !important;
+}
+
+.footer-mobile-address{
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: #ffffff !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 40px;
+}
+.footer-mobile-country{
+    font-size: 13px !important;
+    line-height: 18px !important;
+    color: white !important;
+    font-family: "OpenSans-Bold" !important;
+
+    font-weight: bold !important;
+}
+.footer-mobile-number{
+    font-size: 13px !important;
+    line-height: 18px !important;
+    color: white !important;
+    font-family: 'Open Sans', sans-serif !important;
+
+}
+
+.footer-mobile-rights{
+    font-size: 11px !important;
+    line-height: 15px !important;
+    color: white !important;
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.footer-mobile-privacy{
+    font-size: 11px !important;
+    line-height: 15px !important;
+    color: white !important;
+    font-family: "OpenSans-Bold" !important;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    text-align: end;
+    text-decoration: underline;
+    font-weight: bold !important;
+}
+
+.comp{
+    font-family: "CeraGR-Bold" !important;
+}

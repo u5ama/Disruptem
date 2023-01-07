@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be842ed3-faa8-4f45-b0c7-08880b75900f" name="disruptem">
+        <fileTransfer accessType="SFTP" host="46.101.216.144" port="22" sshConfigId="02e8cf46-a0ac-40d3-9f00-07a822df12b5" sshConfig="root@46.101.216.144:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

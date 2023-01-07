@@ -1,0 +1,45 @@
+.home7-description{
+    font-size: 16px !important;
+    color: white;
+    line-height: 22px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 20px !important;
+}
+.home7-title{
+    font-size: 26px !important;
+    color: #c40046 !important;
+    font-family: "CeraGR-Bold" !important;
+}
+.home7-name{
+    color: #ffffff !important;
+    font-family: "OpenSans-Bold" !important;
+    font-size: 21px !important;
+    font-weight: bold !important;
+    line-height: 20px !important;
+    margin-top: 15px !important;
+}
+
+.home7-appName{
+    font-size: 16px !important;
+    color: white;
+    line-height: 20px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 5px !important;
+}
+
+.home7-space{
+    margin-top: 30px !important;
+    padding-right: 50px !important;
+    margin-left: 30px !important;
+}
+
+.box-reviews-size{
+    margin: 0 auto !important;
+}
+.dot {
+    height: 55px;
+    width: 55px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+}

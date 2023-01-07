@@ -1,0 +1,38 @@
+.home-six-space{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    padding-top: 30px !important;
+}
+.home-six-title{
+    color: #ffffff;
+    font-size: 26px !important;
+    line-height: 36px !important;
+    font-family: "OpenSans-Bold" !important;
+    font-weight: bold !important;
+}
+.home-six-description{
+    color: #ffffff;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 15px !important;
+    /*bottom: 120px;*/
+    /*position: absolute !important;*/
+}
+.image-six-box{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.home-six-image{
+    width: 80%;
+    display: block;
+    padding-top: 55%;
+    margin: 0 auto;
+}
+.part-box{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    padding-top: 30px !important;
+    margin-top: 50px !important;
+}

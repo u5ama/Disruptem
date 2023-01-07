@@ -1,0 +1,45 @@
+.home-three-space-desktop{
+    padding: 80px 100px 100px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh !important;
+    margin-top: 10%;
+}
+.home-three-title-desktop{
+    color: #ffffff;
+    font-size: 36px !important;
+    line-height: 49px !important;
+    font-family: "OpenSans-Bold" !important;
+    font-weight: bold !important;
+}
+.home-three-description-desktop{
+    color: #ffffff;
+    font-size: 21px !important;
+    line-height: 28px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 15px !important;
+}
+.home-three-button-desktop{
+    margin-top: 30px !important;
+}
+.image-box-desktop{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 100vh !important;
+}
+.home-three-image-desktop{
+    width: 60%;
+    display: block;
+    padding-top: 20%;
+}
+.button-three-text-style-desktop{
+    color: #ffffff;
+    font-size: 21px !important;
+    line-height: 28px !important;
+    font-family: "OpenSans-Bold" !important;
+    text-transform: none;
+    font-weight: bold;
+    padding: 5px;
+}

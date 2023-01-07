@@ -1,0 +1,38 @@
+.home-six-space-desktop{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    padding-top: 30px !important;
+}
+.home-six-title-desktop{
+    color: #ffffff;
+    font-size: 36px !important;
+    line-height: 49px !important;
+    font-family: "OpenSans-Bold" !important;
+    font-weight: bold !important;
+}
+.home-six-description-desktop{
+    color: #ffffff;
+    font-size: 21px !important;
+    line-height: 28px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 10px !important;
+    /*bottom: 120px;*/
+    /*position: absolute !important;*/
+}
+.image-six-box-desktop{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.home-six-image-desktop{
+    width: 60%;
+    display: block;
+    padding-top: 35%;
+    margin: 0 auto;
+}
+.part-box-desktop{
+    padding-left: 100px !important;
+    padding-right: 50px !important;
+    padding-top: 130px !important;
+    margin-top: 110px !important;
+}

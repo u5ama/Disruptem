@@ -1,0 +1,39 @@
+.home-three-space-ipad{
+    padding: 80px 50px 100px !important;
+}
+.home-three-title-ipad{
+    color: #ffffff;
+    font-size: 41px !important;
+    line-height: 56px !important;
+    font-family: "OpenSans-Bold" !important;
+    font-weight: bold !important;
+}
+.home-three-description-ipad{
+    color: #ffffff;
+    font-size: 26px !important;
+    line-height: 36px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 15px !important;
+}
+.home-three-button-ipad{
+    margin-top: 20px !important;
+}
+.image-box-ipad{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.home-three-image-ipad{
+    width: 40%;
+    display: block;
+    margin-top: 25%;
+}
+.button-three-text-style-ipad{
+    color: #ffffff;
+    font-size: 26px !important;
+    line-height: 36px !important;
+    font-family: "OpenSans-Bold" !important;
+    text-transform: none;
+    font-weight: bold;
+    padding: 5px;
+}

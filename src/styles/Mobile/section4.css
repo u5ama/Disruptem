@@ -1,0 +1,43 @@
+
+.home-four-space{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    position: absolute !important;
+    bottom: 15%;
+}
+
+.home-four-title{
+    color: white;
+    font-size: 26px !important;
+    line-height: 36px !important;
+    font-weight: bold !important;
+    font-family: "OpenSans-Bold" !important;
+}
+
+.home-four-description{
+    color: white;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    position: relative !important;
+    margin-top: 30px !important;
+}
+.home-four-description-detail-mobile{
+    color: #acbac9;
+    font-size: 16px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    line-height: 22px !important;
+}
+.home-four-button{
+    margin-top: 30px !important;
+}
+.button-four-text-style{
+    font-size: 16px !important;
+    font-family: "OpenSans-Bold" !important;
+    line-height: 22px !important;
+    font-weight: bold !important;
+    padding: 5px;
+    text-transform: none;
+    color: white !important;
+}

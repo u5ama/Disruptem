@@ -1,0 +1,38 @@
+.home-six-space-ipad{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    padding-top: 30px !important;
+}
+.home-six-title-ipad{
+    color: #ffffff;
+    font-size: 41px !important;
+    line-height: 56px !important;
+    font-family: "OpenSans-Bold" !important;
+    font-weight: bold !important;
+}
+.home-six-description-ipad{
+    color: #ffffff;
+    font-size: 26px !important;
+    line-height: 36px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 15px !important;
+    /*bottom: 120px;*/
+    /*position: absolute !important;*/
+}
+.image-six-box-ipad{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.home-six-image-ipad{
+    width: 60%;
+    display: block;
+    padding-top: 35%;
+    margin: 0 auto;
+}
+.part-box-ipad{
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    padding-top: 30px !important;
+    margin-top: 110px !important;
+}
